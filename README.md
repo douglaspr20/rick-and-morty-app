@@ -2,6 +2,10 @@
 
 A Next.js application that allows you to compare Rick and Morty characters and discover their shared episodes.
 
+## Demo
+
+Check out the live demo: [https://rick-and-morty-app-nine-black.vercel.app/](https://rick-and-morty-app-nine-black.vercel.app/)
+
 ## Features
 
 - **Server-Side Rendering**: Initial character data is fetched server-side for optimal performance
