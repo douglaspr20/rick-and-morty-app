@@ -3,7 +3,7 @@
 import { FC, useEffect, useState } from 'react';
 import useSWR from 'swr';
 import { Card } from '../ui/card';
-import EpisodeGridSkeleton from './episode-skeleton';
+import EpisodeGridSkeleton from './episode-grid-skeleton';
 import { Character, Episode } from '@/interfaces';
 import { API_URL, getEpisodes } from '@/lib/api';
 
